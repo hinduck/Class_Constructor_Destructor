@@ -1,0 +1,19 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BaiTap_KhoiTao.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HocSinh.cpp
+F:\Practice_OOP\Class_Constructor_Destructor\BaiTap_KhoiTao\HocSinh.h(18,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Practice_OOP\Class_Constructor_Destructor\BaiTap_KhoiTao\HocSinh.h(21,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Practice_OOP\Class_Constructor_Destructor\BaiTap_KhoiTao\HocSinh.h(22,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Practice_OOP\Class_Constructor_Destructor\BaiTap_KhoiTao\HocSinh.h(23,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SoPhuc.cpp
+F:\Practice_OOP\Class_Constructor_Destructor\BaiTap_KhoiTao\SoPhuc.h(17,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Practice_OOP\Class_Constructor_Destructor\BaiTap_KhoiTao\SoPhuc.h(18,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Source.cpp
+F:\Practice_OOP\Class_Constructor_Destructor\BaiTap_KhoiTao\SoPhuc.h(17,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Practice_OOP\Class_Constructor_Destructor\BaiTap_KhoiTao\SoPhuc.h(18,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Practice_OOP\Class_Constructor_Destructor\BaiTap_KhoiTao\HocSinh.h(18,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Practice_OOP\Class_Constructor_Destructor\BaiTap_KhoiTao\HocSinh.h(21,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Practice_OOP\Class_Constructor_Destructor\BaiTap_KhoiTao\HocSinh.h(22,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Practice_OOP\Class_Constructor_Destructor\BaiTap_KhoiTao\HocSinh.h(23,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ThoiGian.cpp
+  Generating Code...
+  BaiTap_KhoiTao.vcxproj -> F:\Practice_OOP\Class_Constructor_Destructor\Debug\BaiTap_KhoiTaoMacDinh.exe
